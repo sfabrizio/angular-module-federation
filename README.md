@@ -31,4 +31,4 @@ ng serve mfe2
 
 # TODO: 
 - add manifest for real urls configs. point 4b
-
+- update to ng 16+
