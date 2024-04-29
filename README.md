@@ -27,8 +27,9 @@ ng serve mfe1
 ng serve mfe2
 ```
 
-### based on this tutorial: https://github.com/angular-architects/module-federation-plugin/blob/main/libs/mf/tutorial/tutorial.md
-
 # TODO: 
-- add manifest for real urls configs. point 4b
+- create shared lib across all apps.
 - update to ng 16+
+
+
+based on this tutorial: https://github.com/angular-architects/module-federation-plugin/blob/main/libs/mf/tutorial/tutorial.md
